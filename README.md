@@ -53,7 +53,7 @@ We have already conducted testing on an RTX 3090 GPU and obtained results for bo
 
 
 ### 2.3 Testing(sgmv)
-- We didn't have much time, so we couldn't perform benchmarking like `bgmv`. However, sgmv's benchmarking can be done in the same way as `bgmv`.
+- We couldn't perform benchmarking like `bgmv`. However, sgmv's benchmarking can be done in the same way as `bgmv`. 
 #### Runing test script
 
 Then execute the following script to start the testing:

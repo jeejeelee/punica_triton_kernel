@@ -1,0 +1,3290 @@
+{
+    "jee_sgmv_shrink": [
+        {
+            "dur_ms": 0.004031146764755249,
+            "batchs": 1,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005099519888559977,
+            "batchs": 8,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006997333367665609,
+            "batchs": 16,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.003454293409983317,
+            "batchs": 1,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004928853511810303,
+            "batchs": 8,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006492160161336263,
+            "batchs": 16,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0036111998558044436,
+            "batchs": 1,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005273600021998087,
+            "batchs": 8,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006833493709564209,
+            "batchs": 16,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0038536532719930013,
+            "batchs": 1,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005833386580149333,
+            "batchs": 8,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008406506379445395,
+            "batchs": 16,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004055039882659912,
+            "batchs": 1,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006208853324254354,
+            "batchs": 8,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008969706694285075,
+            "batchs": 16,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004119893312454223,
+            "batchs": 1,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006089386542638142,
+            "batchs": 8,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008929279645284017,
+            "batchs": 16,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004108800093332927,
+            "batchs": 1,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0065740799903869634,
+            "batchs": 8,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.01044480005900065,
+            "batchs": 16,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004364800055821736,
+            "batchs": 1,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007161173025767009,
+            "batchs": 8,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.016087039311726888,
+            "batchs": 16,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004669440189997355,
+            "batchs": 1,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0075571203231811525,
+            "batchs": 8,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.01756501356760661,
+            "batchs": 16,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0047752531369527175,
+            "batchs": 1,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007778986295064291,
+            "batchs": 8,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.018841387430826823,
+            "batchs": 16,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004908373355865478,
+            "batchs": 1,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008427519798278809,
+            "batchs": 8,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.01985194683074951,
+            "batchs": 16,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005048319896062216,
+            "batchs": 1,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.010222826798756917,
+            "batchs": 8,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0211080535252889,
+            "batchs": 16,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005331626733144124,
+            "batchs": 1,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.013612373669942219,
+            "batchs": 8,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.023217493693033855,
+            "batchs": 16,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005331626733144124,
+            "batchs": 1,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.013919572830200197,
+            "batchs": 8,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.026248106956481932,
+            "batchs": 16,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0056558934847513835,
+            "batchs": 1,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.015485973358154298,
+            "batchs": 8,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.026248532931009927,
+            "batchs": 16,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0058845865726470945,
+            "batchs": 1,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.01668437321980794,
+            "batchs": 8,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.031037438710530597,
+            "batchs": 16,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006178133487701416,
+            "batchs": 1,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.017575146357218425,
+            "batchs": 8,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.031235411961873374,
+            "batchs": 16,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006444373528162638,
+            "batchs": 1,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.018865493138631183,
+            "batchs": 8,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03317077318827311,
+            "batchs": 16,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0064648532867431635,
+            "batchs": 1,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.01950378735860189,
+            "batchs": 8,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03359061241149902,
+            "batchs": 16,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0066833066940307625,
+            "batchs": 1,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.02111146608988444,
+            "batchs": 8,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03605471928914388,
+            "batchs": 16,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007140373388926188,
+            "batchs": 1,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.022456000645955404,
+            "batchs": 8,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03958101272583008,
+            "batchs": 16,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007164053122202555,
+            "batchs": 1,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.022384640375773115,
+            "batchs": 8,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03979562759399414,
+            "batchs": 16,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0072840531667073575,
+            "batchs": 1,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.023319892883300778,
+            "batchs": 8,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04102826754252116,
+            "batchs": 16,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007789226373036702,
+            "batchs": 1,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.026439679463704426,
+            "batchs": 8,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04657471974690755,
+            "batchs": 16,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008942933082580566,
+            "batchs": 1,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.028617385228474932,
+            "batchs": 8,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.051223894755045574,
+            "batchs": 16,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008939519723256429,
+            "batchs": 1,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.030784854888916014,
+            "batchs": 8,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.05588650385538737,
+            "batchs": 16,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        }
+    ],
+    "punica_bgmv_shrink": [
+        {
+            "dur_ms": 0.004666026830673218,
+            "batchs": 1,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.024040106137593584,
+            "batchs": 8,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.049213441212972005,
+            "batchs": 16,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007997439702351889,
+            "batchs": 1,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.05226112047831217,
+            "batchs": 8,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.12792779286702474,
+            "batchs": 16,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007789226373036702,
+            "batchs": 1,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04477898597717286,
+            "batchs": 8,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.08964746475219726,
+            "batchs": 16,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00643338680267334,
+            "batchs": 1,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03803104082743327,
+            "batchs": 8,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0742631467183431,
+            "batchs": 16,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007727786699930826,
+            "batchs": 1,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04578645388285319,
+            "batchs": 8,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0892689069112142,
+            "batchs": 16,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007714133262634277,
+            "batchs": 1,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.047424853642781574,
+            "batchs": 8,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.09066837310791015,
+            "batchs": 16,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008355200290679932,
+            "batchs": 1,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.05114186604817708,
+            "batchs": 8,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.10419125239054362,
+            "batchs": 16,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.009953280289967855,
+            "batchs": 1,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.06425600051879883,
+            "batchs": 8,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1313036855061849,
+            "batchs": 16,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.011813546816507975,
+            "batchs": 1,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07306165059407552,
+            "batchs": 8,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.14723072052001954,
+            "batchs": 16,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.01190229336420695,
+            "batchs": 1,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07776938756306966,
+            "batchs": 8,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1607031504313151,
+            "batchs": 16,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.01448959986368815,
+            "batchs": 1,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.08724821090698243,
+            "batchs": 8,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.18246283213297523,
+            "batchs": 16,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.013052586714426676,
+            "batchs": 1,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0905898666381836,
+            "batchs": 8,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1817019780476888,
+            "batchs": 16,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.015861760775248212,
+            "batchs": 1,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.11601236979166667,
+            "batchs": 8,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.231912104288737,
+            "batchs": 16,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.014998186429341634,
+            "batchs": 1,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.11256149291992189,
+            "batchs": 8,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.2208904520670573,
+            "batchs": 16,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.018363733291625977,
+            "batchs": 1,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.12247722625732421,
+            "batchs": 8,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.24354815165201824,
+            "batchs": 16,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.01854431947072347,
+            "batchs": 1,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.13798399607340495,
+            "batchs": 8,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.27275263468424477,
+            "batchs": 16,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.019892907142639162,
+            "batchs": 1,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.14742869059244793,
+            "batchs": 8,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.2999866739908854,
+            "batchs": 16,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.02388309319814046,
+            "batchs": 1,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1824221928914388,
+            "batchs": 8,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.37507690429687496,
+            "batchs": 16,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.022527786890665688,
+            "batchs": 1,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1691170120239258,
+            "batchs": 8,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.3318128967285156,
+            "batchs": 16,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.02349738597869873,
+            "batchs": 1,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.17847979227701824,
+            "batchs": 8,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.3649296061197917,
+            "batchs": 16,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.029552640914916994,
+            "batchs": 1,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.2281468709309896,
+            "batchs": 8,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.46884521484375,
+            "batchs": 16,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.026323307355244952,
+            "batchs": 1,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.2030250676472982,
+            "batchs": 8,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.40666453043619794,
+            "batchs": 16,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.027347625096639,
+            "batchs": 1,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.20926123301188151,
+            "batchs": 8,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.4220074717203776,
+            "batchs": 16,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.031087894439697266,
+            "batchs": 1,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.23919957478841147,
+            "batchs": 8,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.48189783732096353,
+            "batchs": 16,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0334335994720459,
+            "batchs": 1,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.2646586608886719,
+            "batchs": 8,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.5435357666015624,
+            "batchs": 16,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.037457920710245764,
+            "batchs": 1,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.2967244720458984,
+            "batchs": 8,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.6068735758463542,
+            "batchs": 16,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        }
+    ],
+    "further_sgmv_shrink": [
+        {
+            "dur_ms": 0.0050210134188334145,
+            "batchs": 1,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005143893162409464,
+            "batchs": 8,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005710506836573283,
+            "batchs": 16,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005112640062967936,
+            "batchs": 1,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005946026643117269,
+            "batchs": 8,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007884799639383952,
+            "batchs": 16,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0053009064992268875,
+            "batchs": 1,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008717652956644695,
+            "batchs": 8,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.013308586279551187,
+            "batchs": 16,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005754880110422769,
+            "batchs": 1,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008772266705830893,
+            "batchs": 8,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.015032320022583007,
+            "batchs": 16,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00585045337677002,
+            "batchs": 1,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00968021313349406,
+            "batchs": 8,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.016100692749023437,
+            "batchs": 16,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00587775985399882,
+            "batchs": 1,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.010331947008768718,
+            "batchs": 8,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.017640105883280435,
+            "batchs": 16,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006140586535135905,
+            "batchs": 1,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.013824000358581542,
+            "batchs": 8,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.02280394713083903,
+            "batchs": 16,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006632106701533,
+            "batchs": 1,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.016496639251708984,
+            "batchs": 8,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.030948692957560222,
+            "batchs": 16,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006727680365244547,
+            "batchs": 1,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.015267839431762695,
+            "batchs": 8,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03086336135864258,
+            "batchs": 16,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006860799789428711,
+            "batchs": 1,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.016649279594421387,
+            "batchs": 8,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03375445365905762,
+            "batchs": 16,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006939199765523274,
+            "batchs": 1,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.020568745930989583,
+            "batchs": 8,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03980287869771321,
+            "batchs": 16,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007014400164286296,
+            "batchs": 1,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.02261290709177653,
+            "batchs": 8,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03858090718587239,
+            "batchs": 16,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007256746292114258,
+            "batchs": 1,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.025012906392415366,
+            "batchs": 8,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04345781326293945,
+            "batchs": 16,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0073454936345418295,
+            "batchs": 1,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.02616319974263509,
+            "batchs": 8,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.045322240193684894,
+            "batchs": 16,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007584426403045654,
+            "batchs": 1,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.02754176139831543,
+            "batchs": 8,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04955477396647135,
+            "batchs": 16,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007881386280059815,
+            "batchs": 1,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.031528959274291994,
+            "batchs": 8,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.05613226572672526,
+            "batchs": 16,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00815445343653361,
+            "batchs": 1,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03423232078552246,
+            "batchs": 8,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.06338207880655924,
+            "batchs": 16,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008587520122528076,
+            "batchs": 1,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.037270186742146806,
+            "batchs": 8,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.06859093348185222,
+            "batchs": 16,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008635733127593994,
+            "batchs": 1,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03767637252807617,
+            "batchs": 8,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07027711868286134,
+            "batchs": 16,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008806400299072266,
+            "batchs": 1,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03937546730041504,
+            "batchs": 8,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07853055953979492,
+            "batchs": 16,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.009215892950693767,
+            "batchs": 1,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04319231986999512,
+            "batchs": 8,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.08437695821126302,
+            "batchs": 16,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.009233067035675049,
+            "batchs": 1,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.042761599222819004,
+            "batchs": 8,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.08413866678873698,
+            "batchs": 16,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.009359359741210938,
+            "batchs": 1,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0445303471883138,
+            "batchs": 8,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.08635285059611003,
+            "batchs": 16,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.009963520367940267,
+            "batchs": 1,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.050162239074707037,
+            "batchs": 8,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.10139647801717122,
+            "batchs": 16,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.010659093062082925,
+            "batchs": 1,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.05586943944295247,
+            "batchs": 8,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.10749268849690756,
+            "batchs": 16,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.011550719738006593,
+            "batchs": 1,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0673416519165039,
+            "batchs": 8,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.120360959370931,
+            "batchs": 16,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        }
+    ],
+    "jee_sgmv_expand": [
+        {
+            "dur_ms": 0.002174293398857117,
+            "batchs": 1,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0024780799945195516,
+            "batchs": 8,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.002921173373858134,
+            "batchs": 16,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.002191359996795654,
+            "batchs": 1,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0029759999116261804,
+            "batchs": 8,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0039662933349609375,
+            "batchs": 16,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.002290133237838745,
+            "batchs": 1,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.003983360131581624,
+            "batchs": 8,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006461439927419026,
+            "batchs": 16,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.002723840077718099,
+            "batchs": 1,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006461439927419026,
+            "batchs": 8,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.011301546891530354,
+            "batchs": 16,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.002734079957008362,
+            "batchs": 1,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007045119603474935,
+            "batchs": 8,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.012892159620920817,
+            "batchs": 16,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.002754559914271037,
+            "batchs": 1,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007849813302357992,
+            "batchs": 8,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.013960533142089844,
+            "batchs": 16,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.003048106630643209,
+            "batchs": 1,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008802986939748129,
+            "batchs": 8,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.02020693302154541,
+            "batchs": 16,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0031802666187286375,
+            "batchs": 1,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.011339093049367269,
+            "batchs": 8,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0310476811726888,
+            "batchs": 16,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0032665600379308064,
+            "batchs": 1,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.012677120367685953,
+            "batchs": 8,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.034242560068766276,
+            "batchs": 16,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0033962666988372804,
+            "batchs": 1,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.014085866610209148,
+            "batchs": 8,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03707903861999512,
+            "batchs": 16,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0034815998872121177,
+            "batchs": 1,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.015100587209065755,
+            "batchs": 8,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.039069013595581056,
+            "batchs": 16,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0035766398906707762,
+            "batchs": 1,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.020919893582661945,
+            "batchs": 8,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.042175146738688156,
+            "batchs": 16,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0037675734361012777,
+            "batchs": 1,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.025589760144551596,
+            "batchs": 8,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.047708158493042,
+            "batchs": 16,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0037444265683492027,
+            "batchs": 1,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.026309973398844402,
+            "batchs": 8,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.049216852188110345,
+            "batchs": 16,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.003993493318557739,
+            "batchs": 1,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.030931625366210937,
+            "batchs": 8,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.05902271906534831,
+            "batchs": 16,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004843519926071167,
+            "batchs": 1,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03343701362609863,
+            "batchs": 8,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.06385279973347982,
+            "batchs": 16,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004638719956080119,
+            "batchs": 1,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0360916264851888,
+            "batchs": 8,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07305557250976562,
+            "batchs": 16,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005191680192947388,
+            "batchs": 1,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.038611628214518225,
+            "batchs": 8,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07508618672688802,
+            "batchs": 16,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005239466826121013,
+            "batchs": 1,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.039335254033406576,
+            "batchs": 8,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07942485173543294,
+            "batchs": 16,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005734399954477946,
+            "batchs": 1,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.043161598841349284,
+            "batchs": 8,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.08440832138061523,
+            "batchs": 16,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00603434681892395,
+            "batchs": 1,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04759146690368652,
+            "batchs": 8,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.09313280105590821,
+            "batchs": 16,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006116266647974651,
+            "batchs": 1,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.048093865712483724,
+            "batchs": 8,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.09905781428019206,
+            "batchs": 16,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006314666668574016,
+            "batchs": 1,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.05239370663960775,
+            "batchs": 8,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.10016768137613934,
+            "batchs": 16,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006775466601053874,
+            "batchs": 1,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.059248638153076176,
+            "batchs": 8,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.11091968536376952,
+            "batchs": 16,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007403519948323567,
+            "batchs": 1,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.06328992207845052,
+            "batchs": 8,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.12417364756266276,
+            "batchs": 16,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00859818696975708,
+            "batchs": 1,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07016703923543295,
+            "batchs": 8,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.13957439422607423,
+            "batchs": 16,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        }
+    ],
+    "punica_bgmv_expand": [
+        {
+            "dur_ms": 0.002207786639531453,
+            "batchs": 1,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004403200149536133,
+            "batchs": 8,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005765120188395183,
+            "batchs": 16,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0025697066386540734,
+            "batchs": 1,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005617493391036988,
+            "batchs": 8,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.009034240245819091,
+            "batchs": 16,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.002487360040346781,
+            "batchs": 1,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.01000106652577718,
+            "batchs": 8,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.017353386878967286,
+            "batchs": 16,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0038536532719930013,
+            "batchs": 1,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.016216746966044106,
+            "batchs": 8,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03170986811319987,
+            "batchs": 16,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.003887786865234375,
+            "batchs": 1,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.018701653480529785,
+            "batchs": 8,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03565909385681152,
+            "batchs": 16,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004130133390426636,
+            "batchs": 1,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0208896001180013,
+            "batchs": 8,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04013045310974121,
+            "batchs": 16,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0049698134263356526,
+            "batchs": 1,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.024861760139465335,
+            "batchs": 8,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.06669653574625652,
+            "batchs": 16,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005369173288345338,
+            "batchs": 1,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03175423940022786,
+            "batchs": 8,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.09035434722900391,
+            "batchs": 16,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005859839916229248,
+            "batchs": 1,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03593557357788086,
+            "batchs": 8,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.10385311762491861,
+            "batchs": 16,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006294186512629192,
+            "batchs": 1,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04018837292989095,
+            "batchs": 8,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1112811787923177,
+            "batchs": 16,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006693546772003174,
+            "batchs": 1,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04657813390096029,
+            "batchs": 8,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.11783509572347005,
+            "batchs": 16,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007389333248138428,
+            "batchs": 1,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.06448810577392579,
+            "batchs": 8,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1306658172607422,
+            "batchs": 16,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008253013292948405,
+            "batchs": 1,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0761958376566569,
+            "batchs": 8,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.14440789540608726,
+            "batchs": 16,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.008212479750315348,
+            "batchs": 1,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07518186569213868,
+            "batchs": 8,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.15134367624918618,
+            "batchs": 16,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.009113600254058838,
+            "batchs": 1,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0878489621480306,
+            "batchs": 8,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1761075210571289,
+            "batchs": 16,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.010086399714152018,
+            "batchs": 1,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0957644780476888,
+            "batchs": 8,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1949627685546875,
+            "batchs": 16,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.011093333562215169,
+            "batchs": 1,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.10345130920410156,
+            "batchs": 8,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.21536768595377606,
+            "batchs": 16,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.011984213193257648,
+            "batchs": 1,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1188147226969401,
+            "batchs": 8,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.2448656972249349,
+            "batchs": 16,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.012298239866892498,
+            "batchs": 1,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.11928916931152345,
+            "batchs": 8,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.2530611165364583,
+            "batchs": 16,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.013298346996307372,
+            "batchs": 1,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1309832509358724,
+            "batchs": 8,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.26867637634277347,
+            "batchs": 16,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.014533653259277343,
+            "batchs": 1,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1436910883585612,
+            "batchs": 8,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.29252950032552083,
+            "batchs": 16,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.014646080334981283,
+            "batchs": 1,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.14638421376546223,
+            "batchs": 8,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.2956791432698568,
+            "batchs": 16,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.015220053990681966,
+            "batchs": 1,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.1487872060139974,
+            "batchs": 8,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.30563669840494795,
+            "batchs": 16,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0171724796295166,
+            "batchs": 1,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.17854464213053386,
+            "batchs": 8,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.36545878092447914,
+            "batchs": 16,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.019234132766723634,
+            "batchs": 1,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.19690155029296874,
+            "batchs": 8,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.3994521586100261,
+            "batchs": 16,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.02102229277292887,
+            "batchs": 1,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.21441535949707033,
+            "batchs": 8,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.43993087768554684,
+            "batchs": 16,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        }
+    ],
+    "further_sgmv_expand": [
+        {
+            "dur_ms": 0.002590186595916748,
+            "batchs": 1,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.002566293279329936,
+            "batchs": 8,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0028364799420038857,
+            "batchs": 16,
+            "hidden_size": 128,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0026282666126887003,
+            "batchs": 1,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.002737493316332499,
+            "batchs": 8,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.003850133419036865,
+            "batchs": 16,
+            "hidden_size": 256,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0027409066756566365,
+            "batchs": 1,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0039252265294392906,
+            "batchs": 8,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005341866811116537,
+            "batchs": 16,
+            "hidden_size": 512,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.002746880054473877,
+            "batchs": 1,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006085973183314005,
+            "batchs": 8,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00876202662785848,
+            "batchs": 16,
+            "hidden_size": 1024,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0028021333614985148,
+            "batchs": 1,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00632149338722229,
+            "batchs": 8,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00974506696065267,
+            "batchs": 16,
+            "hidden_size": 1152,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.002867199977238973,
+            "batchs": 1,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006645226478576661,
+            "batchs": 8,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.010550613403320313,
+            "batchs": 16,
+            "hidden_size": 1280,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0030105600754419966,
+            "batchs": 1,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.007638506889343262,
+            "batchs": 8,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0168994140625,
+            "batchs": 16,
+            "hidden_size": 1536,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0031675734122594197,
+            "batchs": 1,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.009086293379465739,
+            "batchs": 8,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.023633920351664225,
+            "batchs": 16,
+            "hidden_size": 2048,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0032870399951934817,
+            "batchs": 1,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.010557440121968588,
+            "batchs": 8,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.026224533716837566,
+            "batchs": 16,
+            "hidden_size": 2304,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0033962666988372804,
+            "batchs": 1,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.011813546816507975,
+            "batchs": 8,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.02925909360249837,
+            "batchs": 16,
+            "hidden_size": 2560,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004065279960632324,
+            "batchs": 1,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.01375914732615153,
+            "batchs": 8,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03083605448404948,
+            "batchs": 16,
+            "hidden_size": 2752,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00409600019454956,
+            "batchs": 1,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.01710762659708659,
+            "batchs": 8,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0343449592590332,
+            "batchs": 16,
+            "hidden_size": 3072,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004239360094070435,
+            "batchs": 1,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.020339733759562172,
+            "batchs": 8,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.040550400416056315,
+            "batchs": 16,
+            "hidden_size": 3456,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004201813141504924,
+            "batchs": 1,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.020875946680704752,
+            "batchs": 8,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03969365437825521,
+            "batchs": 16,
+            "hidden_size": 3584,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004345173438390096,
+            "batchs": 1,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.023906985918680828,
+            "batchs": 8,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04501503944396973,
+            "batchs": 16,
+            "hidden_size": 4096,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004460586706797282,
+            "batchs": 1,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.026473813056945798,
+            "batchs": 8,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.052735999425252277,
+            "batchs": 16,
+            "hidden_size": 4608,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.004430506626764933,
+            "batchs": 1,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.02942634582519531,
+            "batchs": 8,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.055729490915934245,
+            "batchs": 16,
+            "hidden_size": 5120,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005225813388824462,
+            "batchs": 1,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.031128638585408527,
+            "batchs": 8,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0594329579671224,
+            "batchs": 16,
+            "hidden_size": 5504,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005157546599706014,
+            "batchs": 1,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03189759890238444,
+            "batchs": 8,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.06080469131469726,
+            "batchs": 16,
+            "hidden_size": 5632,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005389120181401571,
+            "batchs": 1,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03450197219848633,
+            "batchs": 8,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.06592512130737305,
+            "batchs": 16,
+            "hidden_size": 6144,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.00548522671063741,
+            "batchs": 1,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03813034693400065,
+            "batchs": 8,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07351221084594727,
+            "batchs": 16,
+            "hidden_size": 6848,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005427199999491373,
+            "batchs": 1,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03845461209615072,
+            "batchs": 8,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07409322738647461,
+            "batchs": 16,
+            "hidden_size": 6912,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005447146495183308,
+            "batchs": 1,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.03973120053609212,
+            "batchs": 8,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.07673173268636067,
+            "batchs": 16,
+            "hidden_size": 7168,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.005932373205820719,
+            "batchs": 1,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.04537685394287109,
+            "batchs": 8,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0905625597635905,
+            "batchs": 16,
+            "hidden_size": 8192,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.0063856001694997154,
+            "batchs": 1,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.05086549441019694,
+            "batchs": 8,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.09821866353352865,
+            "batchs": 16,
+            "hidden_size": 9216,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.006587733427683512,
+            "batchs": 1,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.05910528182983399,
+            "batchs": 8,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        },
+        {
+            "dur_ms": 0.11006229400634765,
+            "batchs": 16,
+            "hidden_size": 10240,
+            "dtype": "torch.float16",
+            "seed": 0
+        }
+    ]
+}

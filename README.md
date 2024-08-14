@@ -2,9 +2,6 @@
 
 ## 1. Motivation
 
-To fully compare the efficiency differences between the Triton kernel we implemented([#5036](https://github.com/vllm-project/vllm/pull/5036))and the kernel implemented by FurtherAI([#5336](https://github.com/vllm-project/vllm/pull/5356))in various scenarios, we conducted performance testing of the operator.
-
-
 
 
 
@@ -12,7 +9,7 @@ To fully compare the efficiency differences between the Triton kernel we impleme
 
 ### 2.1 Requirements
 
-- vllm == 0.4.3
+- vllm == 0.5.3
 - torch == 2.3.0
 - triton == 2.3.0
 
@@ -72,8 +69,3 @@ We have already conducted testing on an RTX 3090 GPU and obtained results for bo
 
 - In our testing, we utilize `cuda graph` to  reduce the runtime overhead of the triton. This approach allows our testing results to closely approximate the actual execution time of the  on the device.
 
-- If you have any questions, please feel free to contact me.
-
-## 4 TODO 
-
--  ~~Performance testing of the SGMV kernel~~

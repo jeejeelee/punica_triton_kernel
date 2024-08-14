@@ -5,8 +5,8 @@ import torch
 from typing import Callable, List
 import triton
 from tqdm import tqdm
-from jee_ops.bgmv_expand import bgmv_expand
-from jee_ops.bgmv_shrink import bgmv_shrink
+from triton_ops.bgmv_expand import bgmv_expand
+from triton_ops.bgmv_shrink import bgmv_shrink
 
 SAVE_DIR = os.path.join(os.path.dirname(__file__), "bgmv_config")
 
